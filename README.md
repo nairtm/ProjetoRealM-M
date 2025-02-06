@@ -45,7 +45,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ### ➡️ 2. Carregamento da Base de Dados
-Os dados foram importados diretamente para o Colab, seja a partir de arquivos CSV. São sete arquivos: Perfil M&M ID, Eventos, Administradores, Portfólio de agências, Digital Pass, Webinar, Acervo.
+Os dados foram importados diretamente para o Colab, a partir de arquivos CSV. São sete arquivos: Perfil M&M ID, Eventos, Administradores, Portfólio de agências, Digital Pass, Webinar, Acervo.
 
 ### ➡️ 3. Tratamento de Dados
 Antes da análise, foi necessário limpar e tratar os dados brutos, como renomear algumas colunas, resetar o índice e conversão dos tipos de variáveis.
