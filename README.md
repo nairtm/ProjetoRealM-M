@@ -35,7 +35,8 @@ Este projeto utilizou o Google Colab para manipulação e análise dos dados, ap
 
 ### ➡️ 1. Importação das Bibliotecas
 import pandas as pd
-\nfrom statistics import mean
+
+from statistics import mean
 
 from scipy.stats import ttest_ind
 
