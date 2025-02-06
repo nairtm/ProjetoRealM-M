@@ -23,7 +23,6 @@ Este projeto consiste na aplicação de técnicas de Análise Exploratória de D
 
 ## 📈 Principais Insights
 
-→ 90,1% da base analisada não é assinante
 → Participação significativa em eventos sem cadastro completo
 → Possibilidade de crescimento por meio de conteúdo segmentado e benefícios exclusivos
 → Estratégias sugeridas incluem personalização de conteúdos, benefícios em eventos e comunicação segmentada
